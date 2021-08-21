@@ -1,9 +1,6 @@
-/**
- * visit
- * https://customrealms.io/
- */
 
-import * as cr from 'your_server'; //mine is customrealms
+
+import * as cr from 'your_server'; 
 
 
 @cr.Plugin()
@@ -22,7 +19,7 @@ export class MainPlugin implements cr.OnEnable
     public helloCommand(player: cr.Player){
         player.SendTitle(
             'Hello Dear Friends',
-            'from CustomRealms',
+            'from your_server',
             20.
             60.
             20
