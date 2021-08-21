@@ -1,2 +1,4 @@
 # Java-Minecraft_Plugin
-This is a TS made simple project for Minecraft plugin
+This is the my first Minecraft server Plugin
+
+Tech Stack: TS
