@@ -35,5 +35,8 @@ export class MainPlugin implements cr.OnEnable
     }
 }
 
+
+//after this go to mincraft and run /reload - just tyoe it on chatbox
 //after this go to mincraft and type " /hello " w/o quotation
-//Cleverguns YT effort haha
+
+// by Cleverguns YT effort haha
